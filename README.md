@@ -1,5 +1,5 @@
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjh_6oj-hbvVKe6WoGWFzuWZb-7DmWx6DTDOpwLRiL0A&s)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc5jo4Is1yZhS0ukQ6wClSYFwvSqxuCvmicrpufqar&s)
 
 # British-Airways-virtual-internship #
 ---
