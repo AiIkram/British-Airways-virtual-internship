@@ -1,5 +1,5 @@
 
-![alt text](https://cdn.theforage.com/vinternships/companyassets/tMjbs76F526fF5v3G/L3MQ8f6cYSkfoukmz/1666887241768/British_Airways_Logo%20white.png)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjh_6oj-hbvVKe6WoGWFzuWZb-7DmWx6DTDOpwLRiL0A&s)
 
 # British-Airways-virtual-internship #
 ---
