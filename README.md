@@ -17,4 +17,4 @@ Task 2
 * Creating a classification model to predict customer buying behaviour
 * Preparing a powerpoint representation to highlight our insights and analysis
 
-###Completion Certificate link: [Certaficate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_rJpQY8ZAqToJW3acp_1677597013560_completion_certificate.pdf)###
+###Completion Certificate link:### [Certaficate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_rJpQY8ZAqToJW3acp_1677597013560_completion_certificate.pdf)
